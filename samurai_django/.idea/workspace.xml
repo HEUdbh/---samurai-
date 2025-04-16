@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efa90b3b-cb3d-4cbc-ada0-de28713b1346" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/samurai_django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/logs/celery..log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/logs/celery.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/logs/django.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/logs/model_service.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/migrations/0002_remove_uploadedfile_processed_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/services/file_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/services/ml_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/services/model_runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/uploads/text/bbox.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/uploads/video/111.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uzVAjocLiGbxiy7h5Yh1DKCeq7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/前端代码2/前端代码/vue-element1"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="samurai_django" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="efa90b3b-cb3d-4cbc-ada0-de28713b1346" name="更改" comment="" />
+      <created>1743251248377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743251248377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
