@@ -1,0 +1,125 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\apps.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\services\ml_service.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\services\ml_service.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\services\ml_service.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\apps.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\apps.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\apps.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\apps.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myapp\apps.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+E:\model\samurai_django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/upload/ HTTP/1.1" 200 0
+"POST /api/upload/ HTTP/1.1" 201 20
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2292
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2343
+"OPTIONS /api/upload/ HTTP/1.1" 200 0
+"POST /api/upload/ HTTP/1.1" 201 20
+"POST /api/upload/ HTTP/1.1" 201 20
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2292
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2343
+"OPTIONS /api/upload/ HTTP/1.1" 200 0
+Internal Server Error: /api/upload/
+"POST /api/upload/ HTTP/1.1" 500 42
+Internal Server Error: /api/upload/
+"POST /api/upload/ HTTP/1.1" 500 42
+Watching for file changes with StatReloader
+"POST /api/upload/ HTTP/1.1" 201 110
+"POST /api/process/1/ HTTP/1.1" 200 299
+E:\model\samurai\samurai_django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/upload/ HTTP/1.1" 201 110
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+"GET /api/status/2/ HTTP/1.1" 200 492
+E:\model\samurai\samurai_django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+E:\model\samurai\samurai_django\myproject\myproject\settings.py changed, reloading.
