@@ -15,4 +15,19 @@ print(torch.version.cuda) # 输出 CUDA 版本
 
 
 #系统部署说明
-git clone 
+克隆仓库
+git clone https://github.com/HEUdbh/---samurai-.git
+
+用IDE打开，启动虚拟环境，进入VUE项目目录输入：
+npm run dev启动前端代码
+进入django项目文件，输入
+python manage.py runserver  启动项目后端程序
+
+检查前后端时候有报错信息，没有报错信息等浏览器打开前端项目启动后返回的地址，按照页面提示操作即可
+
+#文件说明
+上传的视频文件限制为MP4文件格式
+上传的txt文件为一行四个数字，依次为：x,y,w,h
+用英文逗号隔开没有空格
+
+注意：返回的处理好的视频如果浏览器加载不出来，就点击下载查看，或者到django项目目录中的media文件夹查看
