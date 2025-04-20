@@ -12,3 +12,7 @@ print(torch.version.cuda) # 输出 CUDA 版本
 ```
 
 注意：环境需要为整个项目配置（模型和后端程序均在虚拟环境中运行）
+
+
+#系统部署说明
+git clone 
