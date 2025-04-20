@@ -14,7 +14,7 @@ print(torch.version.cuda) # 输出 CUDA 版本
 注意：环境需要为整个项目配置（模型和后端程序均在虚拟环境中运行）
 
 
-#系统部署说明
+# 系统部署说明
 克隆仓库
 git clone https://github.com/HEUdbh/---samurai-.git
 
@@ -25,7 +25,7 @@ python manage.py runserver  启动项目后端程序
 
 检查前后端时候有报错信息，没有报错信息等浏览器打开前端项目启动后返回的地址，按照页面提示操作即可
 
-#文件说明
+# 文件说明
 上传的视频文件限制为MP4文件格式
 上传的txt文件为一行四个数字，依次为：x,y,w,h
 用英文逗号隔开没有空格
